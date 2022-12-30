@@ -4,7 +4,7 @@ import { HTTP } from '@ionic-native/http/ngx';
 import { Article, ResponseTopHeadlines } from '../pattern/pattern';
 
 
-const apiKey = '65a5ac7c5ffc4e2ea02f02cf2898ec8a';
+const apiKey = '13f5599a3ef04b019206adabca76f848';
 const apiUrl = 'https://newsapi.org/v2';
 
 const params = new HttpParams().set('apiKey', apiKey);
